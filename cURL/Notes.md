@@ -51,6 +51,8 @@ curl -X DELETE https://jsonplaceholder.typicode.com/posts/1
 curl -u username -p password http://localhost:8000/api/items
 
 13. curl -u admin:123 
+- admin is the user 
+- :123 is the password
 http://localhost:8000/api/items
 
 14. Redirection:
